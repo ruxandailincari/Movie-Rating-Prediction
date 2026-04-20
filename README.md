@@ -1,7 +1,7 @@
 # Movie Rating Prediction using Machine Learning
 Machine learning project to predict movie ratings (vote_average) based on metadata features from The Movies Dataset on Kaggle. This project implements a full ML pipeline from data acquisition to model evaluation, featuring exploratory data analysis, feature engineering and comparative model assessment.
 ## Overview
-A data science project that builds a regression model to predict user ratings for movies based on their metadata (budget, revenue, genres, popularity, etc.). The system analyzes 45,466 movies, applies data cleaning and feature engineering and compares multiple machine learning algorithms to identify the optimal predictor.
+The project builds a regression model to predict user ratings for movies based on their metadata (budget, revenue, genres, popularity, etc.). The system analyzes 45,466 movies, applies data cleaning and feature engineering and compares multiple machine learning algorithms to identify the optimal predictor.
 The project follows a complete ML workflow:
 -  **Data Acquisition & Cleaning**: Handles missing values, removes invalid entries and ensures data integrity
 - **Exploratory Data Analysis (EDA)**: Visualizes distributions, correlations and patterns in the data
